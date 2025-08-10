@@ -1,0 +1,1 @@
+C:\Users\PaciFic\RustroverProjects\r\rustdb\target\debug\rustdb.exe: C:\Users\PaciFic\RustroverProjects\r\rustdb\src\main.rs C:\Users\PaciFic\RustroverProjects\r\rustdb\src\query.rs C:\Users\PaciFic\RustroverProjects\r\rustdb\src\schema.rs C:\Users\PaciFic\RustroverProjects\r\rustdb\src\storage.rs C:\Users\PaciFic\RustroverProjects\r\rustdb\src\validation.rs
